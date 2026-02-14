@@ -1,0 +1,22 @@
+{
+  "name": "hw4nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "creator": "kateryna",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katerynaevmen/hw4nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katerynaevmen/hw4nodejs/issues"
+  },
+  "homepage": "https://github.com/katerynaevmen/hw4nodejs#readme"
+}
